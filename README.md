@@ -16,62 +16,62 @@ when filling and inverting a matrix.
   </tr>
   <tr>
     <td>Matrix Multiplication</td>
-    <th>J</th>
-    <th>1.41s</th>
+    <td>J</td>
+    <td>1.41s</td>
   </tr>
   <tr>
     <td>Matrix Inversion</td>
-    <th>J</th>
-    <th>3.87s</th>
+    <td>J</td>
+    <td>3.87s</td>
   </tr>
   <tr>
     <td>Matrix Multiplication</td>
-    <th>Python (MKL)</th>
-    <th>40.1s</th>
+    <td>Python (MKL)</td>
+    <td>40.1s</td>
   </tr>
   <tr>
     <td>Matrix Inversion</td>
-    <th>Python (MKL)</th>
-    <th>0.59s</th>
+    <td>Python (MKL)</td>
+    <td>0.59s</td>
   </tr>
   <tr>
     <td>Matrix Multiplication</td>
-    <th>Python (Ubuntu)</th>
-    <th>18.21s</th>
+    <td>Python (Ubuntu)</td>
+    <td>18.21s</td>
   </tr>
   <tr>
     <td>Matrix Inversion</td>
-    <th>Python (Ubuntu)</th>
-    <th>18.18s</th>
+    <td>Python (Ubuntu)</td>
+    <td>18.18s</td>
   </tr>
   <tr>
     <td>Matrix Multiplication</td>
-    <th>Python (Wheel)</th>
-    <th>132.97s</th>
+    <td>Python (Wheel)</td>
+    <td>132.97s</td>
   </tr>
   <tr>
     <td>Matrix Inversion</td>
-    <th>Python (Wheel)</th>
-    <th>0.76s</th>
+    <td>Python (Wheel)</td>
+    <td>0.76s</td>
   </tr>
   <tr>
     <td>Matrix Multiplication</td>
-    <th>Python (Source)</th>
-    <th>39.23s</th>
+    <td>Python (Source)</td>
+    <td>39.23s</td>
   </tr>
   <tr>
     <td>Matrix Inversion</td>
-    <th>Python (Source)</th>
-    <th>17.75s</th>
+    <td>Python (Source)</td>
+    <td>17.75s</td>
   </tr>
   <tr>
     <td>Matrix Multiplication</td>
-    <th>Python (Source + OpenBLAS)</th>
-    <th>38.59s</th>
+    <td>Python (Source + OpenBLAS)</td>
+    <td>38.59s</td>
   </tr>
   <tr>
     <td>Matrix Inversion</td>
-    <th>Python (Source + OpenBLAS)</th>
-    <th>0.62s</th>
+    <td>Python (Source + OpenBLAS)</td>
+    <td>0.62s</td>
   </tr>
 </table>
