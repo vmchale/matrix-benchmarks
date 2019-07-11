@@ -8,6 +8,8 @@ Benchmarks comparing [NumPy](https://www.numpy.org/) and
 As you can see, J is faster to fill a matrix and multiply it. NumPy is faster
 when filling and inverting a matrix.
 
+I can't figure out why the Python numbers are so hinky.
+
 <table>
   <tr>
     <th>Task</th>
