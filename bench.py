@@ -9,7 +9,7 @@ def randomMult():
 
 def matInv():
     x=numpy.random.randint(0, 1e10, (3000,3000))
-    return (x.linalg.inv()).shape
+    return (linalg.inv(x)).shape
 
 t = time()
 randomMult()
