@@ -11,3 +11,4 @@ invertTime =: simpleTime '%. ? 3000 3000 $ 1e10'
 
 NB. Time to multiply the two matrices together
 multTime =: simpleTime '(+/ .*) / ? 2 3000 3000 $ 1e10'
+multCheck =: simpleTime '(? 3000 3000 $ 1e10) (+/ .*) (? 3000 3000 $ 1e10)'
