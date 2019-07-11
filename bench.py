@@ -9,7 +9,6 @@ def randomMult():
     y=np.random.randint(0, 1e10, (3000,3000))
     return (x @ y)
 
-
 def matInv():
     x=np.random.randint(0, 1e10, (3000,3000))
     return np.linalg.inv(x)
